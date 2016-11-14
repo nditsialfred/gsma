@@ -1,0 +1,2 @@
+# gsma
+SQL scripts used
